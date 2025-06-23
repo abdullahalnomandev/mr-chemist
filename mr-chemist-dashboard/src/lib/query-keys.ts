@@ -1,0 +1,7 @@
+export const QK = {
+  TREATMENT: "TREATMENT",
+  CONSULTATION: "CONSULTATION",
+  PRODUCT: "PRODUCT",
+  ORDER: "ORDER",
+  BLOG: "BLOG",
+};
